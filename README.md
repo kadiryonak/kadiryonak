@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋, I'm Kadir Yönak
 
-<!--
-**kadiryonak/kadiryonak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student** passionate about **Machine Learning, Natural Language Processing, Large Language Models and Optimization Algorithms**.  
+I enjoy creating projects that solve real-world problems and contributing to **open-source communities**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- Developing and optimizing **AI models** for computer vision tasks.
+- Building **personal projects** to improve coding and ML skills.
+
+### 🌱 I’m currently learning
+- Advanced **Deep Learning architectures**.
+- Efficient **hyperparameter optimization** techniques.
+- Software **design patterns and clean code practices**.
+
+### 💻 Skills & Tools
+| Languages | Frameworks & Libraries | Tools & Platforms |
+|-----------|----------------------|----------------|
+| Python | PyTorch, TensorFlow, Hugging Face, LangChain, FastAPI, Flutter | Git, GitHub, Docker, VS Code, Linux, Jupyter Notebook |
+| — | — | Pinecone, Weaviate, Milvus, Qdrant (Vector Databases) |
+
+### 📂 Featured Projects
+- [**Hyperparameter Optimization for CNNs**](https://github.com/kadiryonak/hyperparameterOptimizationforCNN_comparison) – Implementing AI-based optimization algorithms for neural networks.  
+- [**CodeT5 Fine-Tuning for Unit Test Cases**](https://github.com/kadiryonak/CodeT5_FineTuningforUnitTestCase) – Fine-tuning a large language model (CodeT5) for automated unit test generation. 
+
+### 📫 How to reach me
+- LinkedIn: [linkedin.com/in/kadiryonak](https://www.linkedin.com/in/kadir-yonak-437544257/)  
+- Email: [kadiryonak@example.com](mailto:kadiryonak7@gmail.com)  
+
+---
+
+### ⚡ Interests
+I enjoy **reading books on philosophy and psychology**, **music production**, and **camping** in my free time.
+
