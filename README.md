@@ -26,7 +26,7 @@ I enjoy creating projects that solve real-world problems.
 
 ### 📫 How to reach me
 - LinkedIn: [linkedin.com/in/kadiryonak](https://www.linkedin.com/in/kadir-yonak-437544257/)  
-- Email: [kadiryonak@example.com](mailto:kadiryonak7@gmail.com)  
+- Email: [kadiryonak7@gmail.com](mailto:kadiryonak7@gmail.com)  
 
 ---
 
