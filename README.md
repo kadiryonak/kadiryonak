@@ -4,15 +4,9 @@ I am a **Computer Engineering student** passionate about **Machine Learning, Nat
 I enjoy creating projects that solve real-world problems.
 
 ---
-
-### 🔭 I’m currently working on
-- Developing and optimizing **AI models** for computer vision tasks.
-- Building **personal projects** to improve coding and ML skills.
-
-### 🌱 I’m currently learning
-- Advanced **Deep Learning architectures**.
-- Efficient **hyperparameter optimization** techniques.
-- Software **design patterns and clean code practices**.
+I am currently focused on **large language models (LLMs) for automated unit test generation** and exploring the use of **meta-heuristic optimization algorithms** in areas such as **prompt optimization** and **RAG (Retrieval-Augmented Generation) optimization**.  
+In general, I investigate how **LLMs can generate task-specific optimization algorithms** to solve AI a problems efficiently.
+---
 
 ### 💻 Skills & Tools
 | Languages | Frameworks & Libraries | Tools & Platforms |
