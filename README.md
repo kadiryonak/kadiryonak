@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Kadir Yönak
 
 I am a **Computer Engineering student** passionate about **Machine Learning, Natural Language Processing, Large Language Models and Optimization Algorithms**.  
-I enjoy creating projects that solve real-world problems and contributing to **open-source communities**.  
+I enjoy creating projects that solve real-world problems.
 
 ---
 
