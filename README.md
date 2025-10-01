@@ -11,8 +11,8 @@ In general, I investigate how **LLMs can generate task-specific optimization alg
 ### 💻 Skills & Tools
 | Languages | Frameworks & Libraries | Tools & Platforms |
 |-----------|----------------------|----------------|
-| Python | PyTorch, TensorFlow, Hugging Face, LangChain, FastAPI, Flutter | Git, GitHub, Docker, VS Code, Linux, Jupyter Notebook |
-| — | — | Pinecone, Weaviate, Milvus, Qdrant (Vector Databases) |
+| Python | PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, LangSmith, Chainlit, FastAPI, playwright, selenium   | Git, GitHub, Docker, VS Code, Linux, Jupyter Notebook |
+| — | — | Pinecone, Weaviate, Milvus, Qdrant , Chroma|
 
 ### 📂 Featured Projects
 - [**Hyperparameter Optimization for CNNs**](https://github.com/kadiryonak/hyperparameterOptimizationforCNN_comparison) – Implementing AI-based optimization algorithms for neural networks.  
