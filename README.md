@@ -21,7 +21,7 @@ In general, I investigate how **LLMs can generate task-specific optimization alg
 ### 📫 How to reach me
 - LinkedIn: [linkedin.com/in/kadiryonak](https://www.linkedin.com/in/kadiryonak)  
 - Email: [kadiryonak7@gmail.com](mailto:kadiryonak7@gmail.com)  
-- WebSite:[kadiryonak.github.io](kadiryonak.github.io)
+- WebSite: [kadiryonak.github.io](https://kadiryonak.github.io)
 ---
 
 ### ⚡ Interests
