@@ -17,7 +17,7 @@ In general, I investigate how **LLMs can generate task-specific optimization alg
 ### 📂 Featured Projects
 - [**Hyperparameter Optimization for CNNs**](https://github.com/kadiryonak/hyperparameterOptimizationforCNN_comparison) – Implementing AI-based optimization algorithms for neural networks.  
 - [**CodeT5 Fine-Tuning for Unit Test Cases**](https://github.com/kadiryonak/CodeT5_FineTuningforUnitTestCase) – Fine-tuning a large language model (CodeT5) for automated unit test generation. 
-- [**RAGART*](https://github.com/kadiryonak/RagArt) –  Developing a production-grade RAG system featuring hybrid search and a 4-layer evaluation mechanism. 
+- [**RAGART**](https://github.com/kadiryonak/RagArt) –  Developing a production-grade RAG system featuring hybrid search and a 4-layer evaluation mechanism. 
 ### 📫 How to reach me
 - LinkedIn: [linkedin.com/in/kadiryonak](https://www.linkedin.com/in/kadiryonak)  
 - Email: [kadiryonak7@gmail.com](mailto:kadiryonak7@gmail.com)  
