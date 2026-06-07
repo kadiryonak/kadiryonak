@@ -16,8 +16,8 @@ In general, I investigate how **LLMs can generate task-specific optimization alg
 
 ### 📂 Featured Projects
 - [**Hyperparameter Optimization for CNNs**](https://github.com/kadiryonak/hyperparameterOptimizationforCNN_comparison) – Implementing AI-based optimization algorithms for neural networks.  
-- [**CodeT5 Fine-Tuning for Unit Test Cases**](https://github.com/kadiryonak/CodeT5_FineTuningforUnitTestCase) – Fine-tuning a large language model (CodeT5) for automated unit test generation. 
-- [**RAGART**](https://github.com/kadiryonak/RagArt) –  Developing a production-grade RAG system featuring hybrid search and a 4-layer evaluation mechanism. 
+- [**DeepArticle**](https://github.com/kadiryonak/DeepArticle) – An AI-powered research and learning platform that discovers, analyzes, and summarizes information from academic papers, YouTube videos, and web sources. The system aggregates knowledge from multiple resources, provides intelligent search capabilities, and generates structured insights to help users learn complex topics faster and more effectively. 
+- [**RAGART**](https://github.com/kadiryonak/RagArt) –  A customizable, production-grade RAG platform inspired by NotebookLM. It enables users to build AI-powered knowledge systems with configurable retrieval strategies, database backends, context management, and prompt engineering techniques. The platform supports advanced document processing, retrieval optimization, and multi-layer evaluation to improve answer quality and reliability.
 ### 📫 How to reach me
 - LinkedIn: [linkedin.com/in/kadiryonak](https://www.linkedin.com/in/kadiryonak)  
 - Email: [kadiryonak7@gmail.com](mailto:kadiryonak7@gmail.com)  
